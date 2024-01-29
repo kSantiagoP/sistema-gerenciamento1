@@ -1,0 +1,22 @@
+Parte 1 - 
+
+Sistema de Cadastro e Visualização de Clientes
+DB - PostgreSQL
+BE - Node.js
+Front - React
+
+
+Dados:
+Nome, Email, Telefone
+
+Deve ser Possível:
+Listar e filtrar clientes
+Cadastrar novos clientes
+
+Parte 2 -
+Rota de Visitas
+
+- Gerar pontos aleatórios em um plano 2d para clientes, empresa  é (0,0)
+- A rota passa por todos os clientes e volta para a empresa e deve ser a menor possível.
+- Uma vez implementado, o algoritmo deve se tornar uma rota de API e pode ser chamado por um botão no front, que abre um modal mostrando a distância e as coordenadas percorridas
+- Possibilidade de cadastro de coordenadas no sistema da parte 1
